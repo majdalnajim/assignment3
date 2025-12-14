@@ -10,14 +10,6 @@ registration_time TIME,
 created_at DATETIME);
 
 
-INSERT INTO students (full_name,
-email,
-age ,
-registration_date ,
-registration_time ,
-created_at )VALUES (
-    "Ahmad","Ahmad@gmail.com",19,"2025-10-12","10:15",NOW()
-)
 
 INSERT INTO students (full_name,
 email,
